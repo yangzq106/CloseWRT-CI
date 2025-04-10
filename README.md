@@ -1,6 +1,6 @@
-# Just For JCG-Q30-Pro Just For JCG-Q30-Pro
+# ----------------------
 # Just For JCG-Q30-Pro
-
+# ----------------------
 
 
 # CloseWRT-CI
